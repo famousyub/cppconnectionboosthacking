@@ -3,3 +3,4 @@ ayoub
 smayen 
 ceo 
 hobbyshare
+https://connect.ed-diamond.com/GNU-Linux-Magazine/glmf-226/interfacage-de-code-c-pour-ruby-et-python-avec-swig
